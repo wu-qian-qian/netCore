@@ -1,0 +1,15 @@
+D:\Program\论坛项目\Froum\Froum.Infrastructure\bin\Debug\net6.0\Froum.Infrastructure.deps.json
+D:\Program\论坛项目\Froum\Froum.Infrastructure\bin\Debug\net6.0\Froum.Infrastructure.dll
+D:\Program\论坛项目\Froum\Froum.Infrastructure\bin\Debug\net6.0\Froum.Infrastructure.pdb
+D:\Program\论坛项目\Froum\Froum.Infrastructure\bin\Debug\net6.0\Forum.DomainModels.dll
+D:\Program\论坛项目\Froum\Froum.Infrastructure\bin\Debug\net6.0\Forum.DomainModels.pdb
+D:\Program\论坛项目\Froum\Froum.Infrastructure\obj\Debug\net6.0\Froum.Infrastructure.csproj.AssemblyReference.cache
+D:\Program\论坛项目\Froum\Froum.Infrastructure\obj\Debug\net6.0\Froum.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\论坛项目\Froum\Froum.Infrastructure\obj\Debug\net6.0\Froum.Infrastructure.AssemblyInfoInputs.cache
+D:\Program\论坛项目\Froum\Froum.Infrastructure\obj\Debug\net6.0\Froum.Infrastructure.AssemblyInfo.cs
+D:\Program\论坛项目\Froum\Froum.Infrastructure\obj\Debug\net6.0\Froum.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Program\论坛项目\Froum\Froum.Infrastructure\obj\Debug\net6.0\Froum.Infrastructure.csproj.CopyComplete
+D:\Program\论坛项目\Froum\Froum.Infrastructure\obj\Debug\net6.0\Froum.Infrastructure.dll
+D:\Program\论坛项目\Froum\Froum.Infrastructure\obj\Debug\net6.0\refint\Froum.Infrastructure.dll
+D:\Program\论坛项目\Froum\Froum.Infrastructure\obj\Debug\net6.0\Froum.Infrastructure.pdb
+D:\Program\论坛项目\Froum\Froum.Infrastructure\obj\Debug\net6.0\ref\Froum.Infrastructure.dll
