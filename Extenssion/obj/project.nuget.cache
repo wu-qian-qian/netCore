@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jxXx3SIrxikJOublQ4vFXImBAqPBUIfyg+mUk82R6A9q9ydOIwWVH3E0tsP1AKvWrMQQlxc36TUJeZqF5fxs0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Program\\论坛项目\\Froum\\Extenssion\\Extenssion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\吴\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\吴\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\吴\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

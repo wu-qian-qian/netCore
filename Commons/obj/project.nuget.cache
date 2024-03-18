@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yGHftRXQ0o9Fjdo012NiL4o5zFLkoZXE6lniq/yFeYzCoMXe/Gy+aUoe7xRZlfkGwMTYhZOqVXDSWGMDkvB6hQ==",
+  "success": true,
+  "projectFilePath": "D:\\Program\\论坛项目\\Froum\\Commons\\Commons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\吴\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\吴\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\吴\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Program\论坛项目\Froum\Net.EventBus\bin\Debug\net6.0\Net.EventBus.deps.json
+D:\Program\论坛项目\Froum\Net.EventBus\bin\Debug\net6.0\Net.EventBus.dll
+D:\Program\论坛项目\Froum\Net.EventBus\bin\Debug\net6.0\Net.EventBus.pdb
+D:\Program\论坛项目\Froum\Net.EventBus\obj\Debug\net6.0\Net.EventBus.csproj.AssemblyReference.cache
+D:\Program\论坛项目\Froum\Net.EventBus\obj\Debug\net6.0\Net.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\论坛项目\Froum\Net.EventBus\obj\Debug\net6.0\Net.EventBus.AssemblyInfoInputs.cache
+D:\Program\论坛项目\Froum\Net.EventBus\obj\Debug\net6.0\Net.EventBus.AssemblyInfo.cs
+D:\Program\论坛项目\Froum\Net.EventBus\obj\Debug\net6.0\Net.EventBus.csproj.CoreCompileInputs.cache
+D:\Program\论坛项目\Froum\Net.EventBus\obj\Debug\net6.0\Net.EventBus.dll
+D:\Program\论坛项目\Froum\Net.EventBus\obj\Debug\net6.0\refint\Net.EventBus.dll
+D:\Program\论坛项目\Froum\Net.EventBus\obj\Debug\net6.0\Net.EventBus.pdb
+D:\Program\论坛项目\Froum\Net.EventBus\obj\Debug\net6.0\ref\Net.EventBus.dll
